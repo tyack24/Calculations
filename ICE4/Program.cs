@@ -8,7 +8,7 @@ namespace ICE4
         {
             int celsius = 20;
             const int FREEZING_POINT = 32;
-            double fahrenheit = ((9 * celisus) / 5) + FREEZING_POINT;
+            double fahrenheit = ((9 * celsius) / 5) + FREEZING_POINT;
         }
     }
 }
